@@ -1,4 +1,4 @@
-# Este programa te saluda y hace una cuenta simple
+# Modificando desde la rama prueba
 nombre = "Programador"
 
 print("¡Hola Mundo!")
