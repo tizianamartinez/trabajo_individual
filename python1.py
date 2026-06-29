@@ -3,4 +3,4 @@
 nombre = "Estudiante"
 
 print("¡Hola Mundo!")
-print("Bienvenido/a al curso de Python,", nombre)
+("Hola,", nombre, ", gracias por unirte al curso.")
