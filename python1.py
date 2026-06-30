@@ -1,6 +1,9 @@
 # Modificando desde la rama principal
 
-nombre = "Estudiante"
+nombre = "Profesor"
 
 print("¡Hola Mundo!")
-("Hola,", nombre, ", gracias por unirte al curso.")
+
+print(f"Bienvenido {nombre} gracias por sumarte al curso")
+
+
